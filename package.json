@@ -1,0 +1,13 @@
+{
+  "name": "albertDev03",
+  "version": "1.0.0",
+  "description": "Academia de ciberseguridad",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
